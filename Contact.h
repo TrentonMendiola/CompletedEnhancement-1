@@ -12,7 +12,7 @@ private:
 
 public:
 
-	//define varaible for the the data inside of the contact
+	//define variable for the data inside of the contact
 	std::string data;
 
 	Contact(const std::string& a)
@@ -115,4 +115,5 @@ public:
 
 
 };
+
 
